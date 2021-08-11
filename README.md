@@ -1,6 +1,6 @@
 # JBoss-docker 
 
-This is about all the commands that are required to run JBoss on docker and change JVM_OPTIONS.
+This covers all the commands that are required to run JBoss on docker and change JVM_OPTIONS.
 
 ### Start docker #
 
